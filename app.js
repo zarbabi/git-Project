@@ -10,3 +10,4 @@ const a = () => {
  
 export default a;
 alert("hiii");
+alert("hiii");
