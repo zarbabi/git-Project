@@ -1,5 +1,5 @@
-const fun1 = () => {
-    return ( 1);
-}
- 
-export default ;
+const app = () => {
+  return hi;
+};
+
+export default app;
