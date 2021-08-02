@@ -4,3 +4,4 @@ const app = () => {
 
 export default app;
 //test
+alert("hiii");
